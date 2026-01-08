@@ -20,19 +20,29 @@ What payment methods do customers prefer?
 Which products generate the highest sales volume?
 
 🗂️ Project Structure
+
 ecommerce-portfolio/
 │
+
 ├── Python/
+
 │   └── Ecommerce_Analysis.ipynb     # Complete analysis notebook
 │
+
 ├── Visuals/
+
 │   ├── state_revenue.png
+
 │   ├── monthly_revenue.png
+
 │   ├── orders_weekday.png
+
 │   ├── payment_share.png
+
 │   └── top_products.png
 |
 ├── requirements.txt
+
 └── README.md
 
 🛠️ Tools & Technologies
